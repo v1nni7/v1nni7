@@ -1,6 +1,6 @@
 <h2>Techs</h2>
 <p align="center">
-  Tecnologias que utilizo para o desenvolvimento das aplicações web
+  Essas as principais tecnologias que utilizo para a 
 </p>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/798688563772129321/966358408078975056/file_type_html_icon_130541.png" />
