@@ -1,10 +1,10 @@
 ### Eae, tudo bem com você? Espero que sim! 😁
 
-# Sobre mim
+# Sobre mim 😎
 
 Sou Vinicius Silveira Cezar, tenho 21 anos e atualmente trabalho como Tutor de Desenvolvimento Full Stack na escola **Driven Education** ajudando pessoas passar por dificuldades do cotidiano de um programador. Sou uma pessoa extremamente motivada e um entusiasta da tecnologia, estou sempre em busca de coisas novas, me desafiando a fazer aplicações complexas com intuito de aprender, procurando o desenvolvimento pessoal e profissional.
 
-# Tecnologias
+# Tecnologias 🚀
 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
