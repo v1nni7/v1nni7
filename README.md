@@ -4,4 +4,4 @@ Sou Vinicius Silveira Cezar, tenho 21 anos e atualmente trabalho como Tutor de D
 
 [![v1nni7's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1nni7&count_private=true&theme=radical)](https://github.com/v1nni7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nni7)](https://github.com/v1nni7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nni7&layout=compact&theme=radical)](https://github.com/v1nni7)
