@@ -25,8 +25,8 @@ Sou Vinicius Silveira Cezar, tenho 21 anos e atualmente trabalho como Tutor de D
 
 <br />
 
-<div>
+<!-- <div>
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=v1nni7&count_private=true&theme=radical&show_icons=true" />
  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1nni7&layout=compact&theme=radical" />
-</div>
+</div> -->
 
