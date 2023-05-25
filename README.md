@@ -2,7 +2,9 @@
 
 # Sobre mim 😎
 
-Sou Vinicius Silveira Cezar, tenho 21 anos e atualmente trabalho como Tutor de Desenvolvimento Full Stack na escola **Driven Education** ajudando pessoas passar por dificuldades do cotidiano de um programador. Sou uma pessoa extremamente motivada e um entusiasta da tecnologia, estou sempre em busca de coisas novas, me desafiando a fazer aplicações complexas com intuito de aprender, procurando o desenvolvimento pessoal e profissional.
+Entusiasta da tecnologia e extremamente motivado para aprender
+
+Tenho 2 anos de experiência na área de desenvolvimento full stack e estou sempre motivado a trabalhar e aprender e desenvolver minhas habilidades para solucionar problemas tecnológicos de forma criativa e otimizada.
 
 # Tecnologias 🚀
 
@@ -25,8 +27,8 @@ Sou Vinicius Silveira Cezar, tenho 21 anos e atualmente trabalho como Tutor de D
 
 <br />
 
-<!-- <div>
+<div>
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=v1nni7&count_private=true&theme=radical&show_icons=true" />
  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1nni7&layout=compact&theme=radical" />
-</div> -->
+</div> 
 
